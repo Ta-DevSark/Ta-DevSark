@@ -20,6 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ta-devsark&show_icons=true&locale=en&layout=compact" alt="ta-devsark" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ta-devsark&show_icons=true&locale=en" alt="ta-devsark" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ta-devsark&" alt="ta-devsark" /></p>
-
