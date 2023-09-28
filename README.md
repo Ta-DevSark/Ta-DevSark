@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarkis</h1>
 <h3 align="center">A passionate junior data scientist from Belgium</h3>
 
-- 🔭 I’m currently working on **a project for Akkanto**
+- 🔭 **Check out my previous projects !**
 
 - 📫 How to reach me **tadevosian.sarkis@gmail.com**
 
