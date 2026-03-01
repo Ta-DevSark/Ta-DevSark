@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sarkis</h1>
-<h3 align="center">A passionate junior data scientist from Belgium</h3>
-
-- 🔭 **Check out my previous projects !**
-
-- 📫 How to reach me **tadevosian.sarkis@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sarkis-tadevosian/" target="_blank">LinkedIn</a>
 
